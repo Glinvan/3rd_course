@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,7 +32,8 @@ namespace raceTester
         public resultControl(bool[] answers, List<UserControl> questions)
         {
             InitializeComponent();
-            connection = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=race_test;Integrated Security=True");
+            var cstr = ConfigurationManager.ConnectionStrings["rtCS"].ConnectionString;
+            connection = new SqlConnection(cstr);
             listContent = new List<string>();
             int i = 0;
             trueCount = 0;

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,7 +30,8 @@ namespace cafeteriaManager
         public auth()
         {
             InitializeComponent();
-            connection = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=cafeteria;Integrated Security=True");
+            var cstr = ConfigurationManager.ConnectionStrings["cafCS"].ConnectionString;
+            connection = new SqlConnection(cstr);
         }
         private void Login_Click(object sender, RoutedEventArgs e)
         {

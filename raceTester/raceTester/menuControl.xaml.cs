@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,7 +33,8 @@ namespace raceTester
         public UserControl1()
         {
             InitializeComponent();
-            con = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=race_test;Integrated Security=True");
+            var cstr = ConfigurationManager.ConnectionStrings["rtCS"].ConnectionString;
+            con = new SqlConnection(cstr);
             greet.Content = string.Format("Добро пожаловать, {0}", Window1.Person_Name);
             player = new SoundPlayer(@"wavs\meow.wav");
             player.Load();

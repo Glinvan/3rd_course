@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +26,7 @@ namespace cafeteriaManager
     {
         DataTable regdt = new DataTable();
         DataTable product = new DataTable();
-        SqlConnection con = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=cafeteria;Integrated Security=True");
+        SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["cafCS"].ConnectionString);
         SqlCommand cmd;
         SqlCommand productCMD;
         SqlDataAdapter sda;

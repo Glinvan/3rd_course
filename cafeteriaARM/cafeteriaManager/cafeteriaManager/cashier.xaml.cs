@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,7 +34,8 @@ namespace cafeteriaManager
         public cashier()
         {
             InitializeComponent();
-            con = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=cafeteria;Integrated Security=True");
+            var cstr = ConfigurationManager.ConnectionStrings["cafCS"].ConnectionString;
+            con = new SqlConnection(cstr);
             sum = 0;
         }
 

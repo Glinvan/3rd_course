@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -36,7 +37,8 @@ namespace raceTester
         public Window1()
         {
             InitializeComponent();
-            connection = new SqlConnection(@"Data Source=GLINVAN;Initial Catalog=race_test;Integrated Security=True");            
+            var cstr = ConfigurationManager.ConnectionStrings["rtCS"].ConnectionString;
+            connection = new SqlConnection(cstr);            
         }
 
         private void Login_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,158 @@
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe.config
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.pdb
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\App.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.g.resources
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.exe
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.pdb
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe.config
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.pdb
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\App.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.g.resources
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.exe
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.pdb
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe.config
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.pdb
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\App.g.cs
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.baml
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.baml
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.baml
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.g.resources
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.exe
+F:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.pdb
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.baml
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.g.cs
+E:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.baml
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.g.cs
+I:\КПиЯП\КП\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe.config
+E:\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.exe
+E:\Пересецкий КП 29.03\raceTester\raceTester\bin\Debug\raceTester.pdb
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\App.g.cs
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\MainWindow.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\menuControl.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\resultControl.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\TestWindow.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\Window1.baml
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.g.resources
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.exe
+E:\Пересецкий КП 29.03\raceTester\raceTester\obj\Debug\raceTester.pdb
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\bin\Debug\raceTester.exe.config
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\bin\Debug\raceTester.exe
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\bin\Debug\raceTester.pdb
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\menuControl.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\resultControl.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\TestWindow.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\Window1.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\App.g.cs
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\MainWindow.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\menuControl.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\resultControl.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\TestWindow.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\Window1.baml
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.g.resources
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.exe
+H:\Пересецкий КП (НА ДИСК)\raceTester\raceTester\obj\Debug\raceTester.pdb
+D:\studies\git projects\raceTester\raceTester\bin\Debug\raceTester.exe.config
+D:\studies\git projects\raceTester\raceTester\bin\Debug\raceTester.exe
+D:\studies\git projects\raceTester\raceTester\bin\Debug\raceTester.pdb
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.csprojAssemblyReference.cache
+D:\studies\git projects\raceTester\raceTester\obj\Debug\MainWindow.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\menuControl.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\resultControl.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\TestWindow.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\textAnswConrol.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\buttonAnswControl.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\Window1.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\App.g.cs
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.cache
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester_MarkupCompile.lref
+D:\studies\git projects\raceTester\raceTester\obj\Debug\MainWindow.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\menuControl.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\resultControl.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\TestWindow.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\textAnswConrol.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\buttonAnswControl.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\Window1.baml
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.g.resources
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.Properties.Resources.resources
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.csproj.GenerateResource.cache
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.csproj.CoreCompileInputs.cache
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.exe
+D:\studies\git projects\raceTester\raceTester\obj\Debug\raceTester.pdb

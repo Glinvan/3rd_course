@@ -1,0 +1,146 @@
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+C:\Users\Student418\source\repos\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+F:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.g.cs
+E:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.baml
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.g.cs
+I:\КПиЯП\КП\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.baml
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.g.cs
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.baml
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+D:\studies\current\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.ResolveComReference.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.ResolveComReference.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.g.cs
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.baml
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+E:\Пересецкий РСПО 05.04\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe.config
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.exe
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\bin\Debug\cafeteriaManager.pdb
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csprojAssemblyReference.cache
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.ResolveComReference.cache
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.g.cs
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.g.cs
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.g.cs
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.g.cs
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\App.g.cs
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.cache
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager_MarkupCompile.lref
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\auth.baml
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cashier.baml
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\MainWindow.baml
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\UserControl1.baml
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.g.resources
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.Properties.Resources.resources
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.GenerateResource.cache
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.csproj.CoreCompileInputs.cache
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.exe
+D:\studies\git projects\cafeteriaARM\cafeteriaManager\cafeteriaManager\obj\Debug\cafeteriaManager.pdb

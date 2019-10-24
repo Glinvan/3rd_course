@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="raceTester.resultControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:raceTester"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <Label Content="Результаты теста" Width="450" Height="60" FontSize="45" FontFamily="Arial" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-155" Y="-185"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <ListView Name="resultList" Height="350" Width="550" RenderTransformOrigin="0.5,0.5">
+            <ListView.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-100" Y="30"/>
+                </TransformGroup>
+            </ListView.RenderTransform>
+        </ListView>
+        <Button Name="Exit" Width="180" Height="60" FontSize="25" RenderTransformOrigin="0.5,0.5" Click="Exit_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="290" Y="175"/>
+                </TransformGroup>
+            </Button.RenderTransform> В меню
+        </Button>
+        <Button Name="Export" Width="180" Height="60" FontSize="25" RenderTransformOrigin="0.5,0.5" Click="Export_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="290" Y="90"/>
+                </TransformGroup>
+            </Button.RenderTransform> Экспорт
+        </Button>
+
+    </Grid>
+</UserControl>
